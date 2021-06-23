@@ -1,0 +1,26 @@
+h1{
+    font-size:30px !important;
+}
+.btn-primary:hover{
+    background-color: blueviolet;
+}
+canvas{
+    animation-name:hat;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+}
+@keyframes hat{
+    from{box-shadow:1px 1px 40px palevioletred;}
+to{box-shadow: 1px 1px 40px gold;}
+}
+
+
+
+
+
+
+
+
+
+
+
